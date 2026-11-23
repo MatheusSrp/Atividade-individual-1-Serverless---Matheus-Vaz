@@ -4,7 +4,7 @@
 **Tema:** Função serverless acionada por evento e por HTTP para geração de guia de transporte (cenário Rota Vital).  
 **Caminho escolhido:** **Caminho A (Local)** utilizando **AWS SAM CLI** + **Docker Desktop** + **Python 3.12**.
 
-- **Vídeo de demonstração (até 3 min):** [Assistir no YouTube / Drive](https://youtu.be/UwtdjoX7Pk8)
+- **Vídeo de demonstração (até 3 min):** [Assistir no YouTube](https://youtu.be/UwtdjoX7Pk8)
 
 ---
 
@@ -19,5 +19,5 @@
 
 1. **Clonar o repositório e acessar a pasta:**
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
-   cd atividade-serviceless
+   git clone [https://github.com/MatheusSrp/Atividade-individual-1-Serverless---Matheus-Vaz.git](https://github.com/MatheusSrp/Atividade-individual-1-Serverless---Matheus-Vaz.git)
+   cd Atividade-individual-1-Serverless---Matheus-Vaz
